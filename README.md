@@ -15,7 +15,8 @@ Ex: Análise de dados de vendas / saúde / educação
 * **[NOME COMPLETO DO INTEGRANTE 2]**
 * **[NOME COMPLETO DO INTEGRANTE 3]**
 * **[NOME COMPLETO DO INTEGRANTE 4]**
-
+* **[NOME COMPLETO DO INTEGRANTE 5]**
+  
 ---
 
 ## 🎯 Objetivo da Análise
