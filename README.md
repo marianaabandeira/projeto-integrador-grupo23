@@ -11,7 +11,7 @@ Ex: Análise de dados de vendas / saúde / educação
 
 ## 👥 Integrantes
 
-* **[NOME COMPLETO DO INTEGRANTE 1]**
+* Debora CampagnaroRamella
 * **[NOME COMPLETO DO INTEGRANTE 2]**
 * **[NOME COMPLETO DO INTEGRANTE 3]**
 * **[NOME COMPLETO DO INTEGRANTE 4]**
