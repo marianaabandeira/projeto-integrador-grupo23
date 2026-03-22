@@ -11,11 +11,11 @@ Ex: Análise de dados de vendas / saúde / educação
 
 ## 👥 Integrantes
 
-* **Debora Campagnaro Ramella**
-* **Francisco Rodrigues dos Santos**
-* **[NOME COMPLETO DO INTEGRANTE 3]**
-* **[NOME COMPLETO DO INTEGRANTE 4]**
-* **[NOME COMPLETO DO INTEGRANTE 5]**
+- **Debora Campagnaro Ramella**  
+- **Filipe Coldebella**  
+- **Francisco Rodrigues dos Santos**  
+- **Mariana Bandeira Santos**  
+- **Umbria Luiza Zuicker**
   
 ---
 
@@ -37,19 +37,28 @@ Essa base contém informações sobre **[DESCREVER DO QUE SE TRATA A BASE]**, in
 
 ### 📌 Divisão de Tarefas
 
-* **[NOME]**: [RESPONSABILIDADE]
-* **[NOME]**: [RESPONSABILIDADE]
-* **[NOME]**: [RESPONSABILIDADE]
-* **[NOME]**: [RESPONSABILIDADE]
+- **Debora Campagnaro Ramella**: Responsável pela análise dos dados e definição das métricas  
 
+- **Filipe Coldebella**: Responsável pela coleta e organização da base de dados  
+
+- **Francisco Rodrigues dos Santos**: Responsável pelo processo de ETL (extração, transformação e carga dos dados)  
+
+- **Mariana Bandeira Santos**: Responsável pela organização do projeto, criação e gerenciamento do repositório no GitHub, definição das tarefas, prazos e acompanhamento do grupo  
+
+- **Umbria Luiza Zuicker**: Responsável pelo desenvolvimento do dashboard (Streamlit)  
 ---
 
 ### 📅 Cronograma
 
-* **Semana 1:** [ATIVIDADE]
-* **Semana 2:** [ATIVIDADE]
-* **Semana 3:** [ATIVIDADE]
-* **Semana 4:** [ATIVIDADE]
+### 📅 Cronograma
+
+- **Semana 1:** Escolha da base de dados, definição do tema e organização do repositório no GitHub  
+
+- **Semana 2:** Coleta e tratamento dos dados (processo de ETL: extração e transformação)  
+
+- **Semana 3:** Análise dos dados e definição das métricas e insights  
+
+- **Semana 4:** Desenvolvimento do dashboard e finalização do projeto  
 
 ---
 
