@@ -4,8 +4,7 @@
 
 ## 📌 Tema do Projeto
 
-**[INSIRA O TEMA DO PROJETO AQUI]**
-Ex: Análise de dados de vendas / saúde / educação
+**Análise de dados de vendas em e-commerce brasileiro**
 
 ---
 
@@ -21,15 +20,15 @@ Ex: Análise de dados de vendas / saúde / educação
 
 ## 🎯 Objetivo da Análise
 
-O objetivo deste projeto é **[DESCREVER O QUE VOCÊS QUEREM ANALISAR]**, com a finalidade de **[EXPLICAR O QUE PRETENDEM DESCOBRIR OU GERAR DE INSIGHT]**.
+O objetivo deste projeto é analisar os dados de vendas de um e-commerce brasileiro, com a finalidade de identificar padrões de consumo, comportamento dos clientes e desempenho das vendas, gerando insights que auxiliem na tomada de decisão.
 
 ---
 
 ## 🗂 Base de Dados
 
-A base de dados utilizada será **[NOME OU TEMA DA BASE]**, obtida através de **[FONTE: KAGGLE / IBGE / ETC]**.
+A base de dados utilizada será **Brazilian E-Commerce Public Dataset by Olist**, obtida através do **Kaggle**.
 
-Essa base contém informações sobre **[DESCREVER DO QUE SE TRATA A BASE]**, incluindo dados como **[CITAR EXEMPLOS DE COLUNAS OU INFORMAÇÕES]**.
+Essa base contém informações sobre pedidos realizados em um e-commerce brasileiro, incluindo dados como clientes, produtos, pagamentos, avaliações e entregas.
 
 ---
 
@@ -46,9 +45,8 @@ Essa base contém informações sobre **[DESCREVER DO QUE SE TRATA A BASE]**, in
 - **Mariana Bandeira Santos**: Responsável pela organização do projeto, criação e gerenciamento do repositório no GitHub, definição das tarefas, prazos e acompanhamento do grupo  
 
 - **Umbria Luiza Zuicker**: Responsável pelo desenvolvimento do dashboard (Streamlit)  
----
 
-### 📅 Cronograma
+---
 
 ### 📅 Cronograma
 
@@ -66,14 +64,15 @@ Essa base contém informações sobre **[DESCREVER DO QUE SE TRATA A BASE]**, in
 
 Durante o processo de ETL, serão realizadas as seguintes etapas:
 
-* **Extração:** [COMO OS DADOS SERÃO OBTIDOS]
-* **Transformação:**
+- **Extração:** Os dados serão obtidos através da base disponibilizada no Kaggle  
 
-  * [EX: limpeza de dados]
-  * [EX: remoção de valores nulos]
-  * [EX: padronização]
-  * [EX: criação de novas colunas]
-* **Carga:** [ONDE OS DADOS TRATADOS SERÃO ARMAZENADOS]
+- **Transformação:**
+  - Limpeza de dados (remoção de valores nulos e duplicados)  
+  - Padronização de formatos (datas, valores, categorias)  
+  - Integração das tabelas (clientes, pedidos, produtos, etc.)  
+  - Criação de novas colunas para análise (ex: faturamento total, tempo de entrega)  
+
+- **Carga:** Os dados tratados serão armazenados em arquivos estruturados (CSV) para utilização no projeto  
 
 ---
 
@@ -81,28 +80,30 @@ Durante o processo de ETL, serão realizadas as seguintes etapas:
 
 O dashboard apresentará as seguintes informações:
 
-* **[MÉTRICA OU KPI 1]**
-* **[MÉTRICA OU KPI 2]**
-* **[MÉTRICA OU KPI 3]**
+- **Faturamento total**  
+- **Produtos mais vendidos**  
+- **Evolução das vendas ao longo do tempo**  
+- **Ticket médio**  
 
 Tipos de visualização:
 
-* **[GRÁFICO DE BARRAS / LINHA / PIZZA]**
-* **[OUTRO TIPO DE GRÁFICO]**
+- **Gráfico de barras (produtos mais vendidos)**  
+- **Gráfico de linha (evolução das vendas)**  
+- **Indicadores (KPIs principais)**  
 
 ---
 
 ## 🛠 Tecnologias Utilizadas
 
-* **[TECNOLOGIA 1 - EX: Python]**
-* **[TECNOLOGIA 2 - EX: Pandas]**
-* **[TECNOLOGIA 3 - EX: Streamlit]**
-* **[TECNOLOGIA 4 - EX: GitHub]**
+- **Python**  
+- **Pandas**  
+- **Streamlit**  
+- **GitHub**  
 
 ---
 
 ## 💡 Ideia Inicial do Projeto
 
-O projeto consiste em **[DESCREVER RESUMIDAMENTE COMO SERÁ O PROJETO]**, incluindo a aplicação de um processo de ETL para tratamento dos dados e a criação de um dashboard interativo para visualização das informações.
+O projeto consiste na aplicação de um processo de ETL para tratamento dos dados de vendas de um e-commerce brasileiro e, posteriormente, no desenvolvimento de um dashboard interativo que permita visualizar e analisar as principais métricas e insights obtidos.
 
 ---
