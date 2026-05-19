@@ -6,7 +6,7 @@
 
 **Análise de dados de vendas em e-commerce brasileiro**
 > **🌍 Acesso ao Dashboard em Produção:**
-> [Clique aqui para acessar o Streamlit Cloud](link-do-seu-deploy)
+> [Clique aqui para acessar o Streamlit Cloud](https://projeto-integrador-grupo23-wgheh5nnrs5uch8m53yue9.streamlit.app/)
 ---
 
 ## 👥 Integrantes
@@ -117,7 +117,8 @@ Tipos de visualização:
 ---
 
 ## 💡 Ideia Inicial do Projeto
+O ** projeto **  consiste na aplicação de um processo de ETL para tratamento dos dados de vendas de um e-commerce brasileiro e, posteriormente, no desenvolvimento de um dashboard interativo que permita visualizar e analisar as principais métricas e insights obtidos.
 
-O projeto consiste na aplicação de um processo de ETL para tratamento dos dados de vendas de um e-commerce brasileiro e, posteriormente, no desenvolvimento de um dashboard interativo que permita visualizar e analisar as principais métricas e insights obtidos.
+Dashboard do Projeto
 ![Demonstração do Dashboard de Vendas](img/dashboard.png)
 ---
